@@ -1,0 +1,5 @@
+-- Auth users must be created in Supabase Auth first. Replace UUIDs below with real auth user IDs before running.
+-- This seed intentionally demonstrates the isolation relationship.
+-- insert into public.employees(user_id,name,email,role) values ('00000000-0000-0000-0000-000000000001','老闆','admin@example.com','admin');
+-- insert into public.employees(user_id,name,email,role) values ('00000000-0000-0000-0000-000000000002','小美','mei@example.com','employee');
+-- insert into public.employees(user_id,name,email,role) values ('00000000-0000-0000-0000-000000000003','小華','hua@example.com','employee');

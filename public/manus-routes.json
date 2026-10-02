@@ -1,0 +1,1 @@
+{"routes":[{"path":"/login","title":"登入"},{"path":"/inbox","title":"收件匣"},{"path":"/customers","title":"家長名單"},{"path":"/customers/:id","title":"家長資料"},{"path":"/admin/unassigned","title":"待分派"},{"path":"/admin/customers","title":"全部家長"},{"path":"/admin/employees","title":"員工管理"}]}
